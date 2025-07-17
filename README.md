@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-andresthor-cmd-line-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-andresthor-cmd-line-mcp)
+
 # Command-Line MCP Server
 
 [![PyPI version](https://badge.fury.io/py/cmd-line-mcp.svg)](https://badge.fury.io/py/cmd-line-mcp)
